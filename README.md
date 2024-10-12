@@ -64,6 +64,9 @@ During the development process, the following challenges were encountered:
 ## Contribution
 Feel free to fork the repository and make improvements or suggestions. Contributions are welcome!
 
+## Preview
+![preview](assets/preview.png)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
